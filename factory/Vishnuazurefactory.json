@@ -1,0 +1,9 @@
+{
+	"name": "Vishnuazurefactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "462d58c8-b212-4131-b239-f6ab0cf7bf68",
+		"tenantId": "e69af76c-c516-49ab-9000-8c861ad0c025"
+	}
+}
